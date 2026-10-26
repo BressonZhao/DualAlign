@@ -1,8 +1,8 @@
 # DualAlign
 
-> **Paper:** _[PAPER TITLE — placeholder]_
-> **Authors:** _[AUTHORS — placeholder]_
-> **Venue / Year:** _[VENUE YEAR — placeholder]_
+> **Paper:** [Stage-Aware Dual Alignment for Covariate Shift in Graph Domain Adaptation](https://openreview.net/forum?id=nFn17qZZSS)
+> **Authors:** Hongwei Wen, Can Zhang, Haoyu He, Xintao Zhao, Hanyuan Hang, Minglong Lei
+> **OpenReview:** [forum?id=nFn17qZZSS](https://openreview.net/forum?id=nFn17qZZSS)
 
 DualAlign is a PyTorch / PyTorch Geometric implementation of **unsupervised graph domain
 adaptation for node classification**. Given a labeled *source* graph and an unlabeled
@@ -288,7 +288,6 @@ These are design or scope limitations, not bugs addressed by the fixes in
   raises an `ImportError` explaining this.
 - **Data not shipped.** You need to obtain the DBLP/ACM and Airport files yourself (see
   "Datasets").
-- **No LICENSE file yet.** See "License" below.
 
 ---
 
@@ -297,13 +296,16 @@ These are design or scope limitations, not bugs addressed by the fixes in
 If you use this code, please cite:
 
 ```bibtex
-@inproceedings{PLACEHOLDER_KEY,
-  title     = {[PAPER TITLE]},
-  author    = {[AUTHORS]},
-  booktitle = {[VENUE]},
-  year      = {[YEAR]}
+@inproceedings{wen2025stageaware,
+  title     = {Stage-Aware Dual Alignment for Covariate Shift in Graph Domain Adaptation},
+  author    = {Wen, Hongwei and Zhang, Can and He, Haoyu and Zhao, Xintao and Hang, Hanyuan and Lei, Minglong},
+  booktitle = {OpenReview},
+  year      = {2025},
+  url       = {https://openreview.net/forum?id=nFn17qZZSS}
 }
 ```
+
+Paper page: https://openreview.net/forum?id=nFn17qZZSS
 
 ## License
 
