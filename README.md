@@ -83,9 +83,8 @@ Checkpoints land in `--dir_name`. Stage 2 also writes `best_edge_weights_<seed>.
 @inproceedings{wen2026dacs,
   title     = {Stage-Aware Dual Alignment for Covariate Shift in Graph Domain Adaptation},
   author    = {Wen, Hongwei and Zhang, Can and He, Haoyu and Zhao, Xintao and Hang, Hanyuan and Lei, Minglong},
-  booktitle = {Submitted to NeurIPS},
-  year      = {2026},
-  url       = {https://openreview.net/forum?id=nFn17qZZSS}
+  booktitle = {Fortieth Conference on Neural Information Processing Systems},
+  year      = {2026}
 }
 ```
 
